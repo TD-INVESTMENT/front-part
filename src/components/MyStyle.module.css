@@ -1,0 +1,62 @@
+
+.c1 {
+    padding: 1.5rem;
+    }
+
+    .c2 {
+        font-size: 1.5rem;
+        text-align: center;
+        padding-bottom: 0rem;
+    }
+
+    .c3 {
+        width: 0.1rem;
+    }
+
+    .c3 {
+        width: 100%;
+    }
+
+    .c4 {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+.c5 {
+    color: red;
+}
+
+.c6 {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.c7 {
+    margin-top: 0.5rem
+}
+
+.c8 {
+    margin-right: 3rem;
+    margin-left: 3rem;
+    margin-top: 3rem;
+    /* height: 50rem; */
+    overflow: scroll;
+}
+.c9 {
+    margin-bottom: 3rem;
+}
+
+
+.c10 {
+    padding: 1rem;
+}
+
+.c11 {
+    padding-left: 2rem;
+    padding-top: 2rem;
+    font-size: x-large;
+}
+
+.c12 {
+    background-color: #1D1A09;
+  }
